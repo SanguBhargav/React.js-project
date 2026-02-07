@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import './Goal.css'
 
+
 const API_URL = "https://jsonplaceholder.typicode.com/users";
 
 export default function Apple() {
