@@ -156,7 +156,7 @@ const students=["helio","hlo","hi"]
   <Route path="/list" element={<List />} />
  <Route path="/Blogs/:id" element={<Blog />} />
 </Routes>
-</BrowserRouter>*/}  <UseCall/> <Exam/> <Like/> <ComponentA/> <Effec/> <TicTacToe /> <Ref/> <Re/> <Call/><Apple/> <Mygoal/> <Reff/> <Back/> <HideOutput/>
+</BrowserRouter> <UseCall/> <Exam/> <Like/> <ComponentA/> <Effec/> <TicTacToe /> <Ref/> <Re/> <Call/><Apple/> <Mygoal/> <Reff/> <Back/> <HideOutput/>
 
 </div>
 
