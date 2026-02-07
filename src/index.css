@@ -1,4 +1,4 @@
-/*:root {
+:root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -66,7 +66,7 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-/*.helio{
+.helio{
   width: 350px;
   margin: 40px auto;
   padding: 25px;
@@ -75,8 +75,8 @@ button:focus-visible {
   box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
   font-family: Arial, sans-serif;
   cursor: pointer//;
-}*/
-/*.image-box {
+}
+.image-box {
   width: 200px;
   height: 200px;
   border: 2px red;
@@ -92,8 +92,8 @@ button:focus-visible {
   object-fit: cover;
   border-radius: 10px;
 }
-*/
-/*.form-container {
+
+.form-container {
   max-width: 400px;
   margin: 40px auto;
   padding: 40px;
@@ -132,7 +132,7 @@ button:focus-visible {
 .form-container input[type="date"] {
   color: #555;
 }*/
-/*.hello {
+.hello {
   display: flex;
   gap: 24px;
   padding: 14px 24px;
@@ -218,8 +218,8 @@ button:focus-visible {
   color: #5f040e;               
 }*/
 
-/* Main container */
-/*.hi {
+
+.hi {
   height: 100vh;
   display: flex;
   flex-direction: column;
